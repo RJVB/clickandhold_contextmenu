@@ -1,0 +1,10 @@
+.DS_Store
+.kdev4
+*.kdev4
+.qmake*
+*.o
+*.pro.user
+moc_*
+build*
+*.app
+Makefile
